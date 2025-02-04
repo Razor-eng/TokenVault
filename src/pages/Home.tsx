@@ -300,7 +300,6 @@ try {
           </p>
           <Link
             to="/generator"
-            target='_blank'
             className="inline-flex items-center px-8 py-3 rounded-lg bg-indigo-600 text-white font-medium hover:bg-indigo-700 transition-colors"
           >
             Try JWT Generator
